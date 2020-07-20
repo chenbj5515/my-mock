@@ -1,0 +1,38 @@
+{
+    "status": 0,
+    "error_info": "",
+    "code": 0,
+    "msg": "",
+    "data": {
+        "finish": true,
+        "grade": 7,
+        "hasMore": false,
+        "subclassRankInfoList": [
+            {
+                "idx": 1,
+                "subRoomNumber": "60071411708777846",
+                "subclazzName": "F庞军鹏F",
+                "studentCount": 158,
+                "attendanceCount": 0,
+                "finishClazzCount": 0,
+                "accuracyRate": "0.0%",
+                "attendanceRate": "0.0%",
+                "finishClazzRate": "0.0%",
+                "power": "0"
+            },
+            {
+                "idx": 1,
+                "subRoomNumber": "60071411708798326",
+                "subclazzName": "云无心以出岫鸟倦飞而知还",
+                "studentCount": 351,
+                "attendanceCount": 0,
+                "finishClazzCount": 0,
+                "accuracyRate": "0.0%",
+                "attendanceRate": "0.0%",
+                "finishClazzRate": "0.0%",
+                "power": "0",
+                "highlight": true
+            }
+        ]
+    }
+}

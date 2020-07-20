@@ -1,0 +1,129 @@
+{
+    "status": 0,
+    "error_info": "",
+    "code": 0,
+    "msg": "",
+    "data": {
+        "pkGroupPairList": [
+            {
+                "groupInfo": {
+                    "groupNumber": "6689967930475008",
+                    "groupName": "冰封骑士队",
+                    "groupRank": "bronze",
+                    "groupScore": "0",
+                    "groupProfilePhoneUrl": "https://test-img.gsxservice.com//2020092_9hdisbns.png"
+                },
+                "rivalGroupInfo": {
+                    "groupNumber": "6689967872147968",
+                    "groupName": "冰封骑士队",
+                    "groupRank": "bronze",
+                    "groupScore": "0",
+                    "groupProfilePhoneUrl": "https://test-img.gsxservice.com//2020092_9hdisbns.png"
+                }
+            },
+            {
+                "groupInfo": {
+                    "groupNumber": "6689967930475009",
+                    "groupName": "天火法师队",
+                    "groupRank": "bronze",
+                    "groupScore": "0",
+                    "groupProfilePhoneUrl": "https://test-img.gsxservice.com//2020090_bshd36pb.png"
+                },
+                "rivalGroupInfo": {
+                    "groupNumber": "6689967872147969",
+                    "groupName": "天火法师队",
+                    "groupRank": "bronze",
+                    "groupScore": "0",
+                    "groupProfilePhoneUrl": "https://test-img.gsxservice.com//2020090_bshd36pb.png"
+                }
+            },
+            {
+                "groupInfo": {
+                    "groupNumber": "6689967930475010",
+                    "groupName": "圣光天使队",
+                    "groupRank": "bronze",
+                    "groupScore": "0",
+                    "groupProfilePhoneUrl": "https://test-img.gsxservice.com//2020093_txal3nfs.png"
+                },
+                "rivalGroupInfo": {
+                    "groupNumber": "6689967872147970",
+                    "groupName": "圣光天使队",
+                    "groupRank": "bronze",
+                    "groupScore": "0",
+                    "groupProfilePhoneUrl": "https://test-img.gsxservice.com//2020093_txal3nfs.png"
+                }
+            },
+            {
+                "groupInfo": {
+                    "groupNumber": "6689967930475011",
+                    "groupName": "月影行者队",
+                    "groupRank": "bronze",
+                    "groupScore": "0",
+                    "groupProfilePhoneUrl": "https://test-img.gsxservice.com//2020094_8n23hxmc.png"
+                },
+                "rivalGroupInfo": {
+                    "groupNumber": "6689967872147970",
+                    "groupName": "圣光天使队",
+                    "groupRank": "bronze",
+                    "groupScore": "0",
+                    "groupProfilePhoneUrl": "https://test-img.gsxservice.com//2020093_txal3nfs.png"
+                }
+            },
+            {
+                "groupInfo": {
+                    "groupNumber": "6689967930475012",
+                    "groupName": "神木精灵队",
+                    "groupRank": "bronze",
+                    "groupScore": "0",
+                    "groupProfilePhoneUrl": "https://test-img.gsxservice.com//2020091_luym94lu.png"
+                },
+                "rivalGroupInfo": {
+                    "groupNumber": "6689967872147970",
+                    "groupName": "圣光天使队",
+                    "groupRank": "bronze",
+                    "groupScore": "0",
+                    "groupProfilePhoneUrl": "https://test-img.gsxservice.com//2020093_txal3nfs.png"
+                }
+            },
+            {
+                "groupInfo": {
+                    "groupNumber": "6689967930475013",
+                    "groupName": "奔雷勇士队",
+                    "groupRank": "bronze",
+                    "groupScore": "0",
+                    "groupProfilePhoneUrl": "https://test-img.gsxservice.com//2020095_uzfjsfsy.png"
+                },
+                "rivalGroupInfo": {
+                    "groupNumber": "6689967872147970",
+                    "groupName": "圣光天使队",
+                    "groupRank": "bronze",
+                    "groupScore": "0",
+                    "groupProfilePhoneUrl": "https://test-img.gsxservice.com//2020093_txal3nfs.png"
+                }
+            }
+        ],
+        "rivalGroupInfoList": [
+            {
+                "groupNumber": "6689967872147968",
+                "groupName": "冰封骑士队",
+                "groupRank": "bronze",
+                "groupScore": "0",
+                "groupProfilePhoneUrl": "https://test-img.gsxservice.com//2020092_9hdisbns.png"
+            },
+            {
+                "groupNumber": "6689967872147969",
+                "groupName": "天火法师队",
+                "groupRank": "bronze",
+                "groupScore": "0",
+                "groupProfilePhoneUrl": "https://test-img.gsxservice.com//2020090_bshd36pb.png"
+            },
+            {
+                "groupNumber": "6689967872147970",
+                "groupName": "圣光天使队",
+                "groupRank": "bronze",
+                "groupScore": "0",
+                "groupProfilePhoneUrl": "https://test-img.gsxservice.com//2020093_txal3nfs.png"
+            }
+        ]
+    }
+}

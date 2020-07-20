@@ -1,0 +1,128 @@
+{
+    "status": 0,
+    "error_info": "",
+    "code": 0,
+    "msg": "",
+    "data": {
+        "finish": true,
+        "grade": 7,
+        "hasMore": false,
+        "groupRankInfoList": [
+            {
+                "idx": 1,
+                "subRoomNumber": "60071411708775285",
+                "groupNumber": "6689967872147968",
+                "subclazzName": "F庞军鹏F",
+                "groupName": "云无心班冰封骑士队",
+                "studentCount": 50,
+                "attendanceCount": 0,
+                "accuracyRate": "0.0%",
+                "attendanceRate": "0.0%",
+                "power": "0",
+                "winner": true
+            },
+            {
+                "idx": 1,
+                "subRoomNumber": "60071411708795765",
+                "groupNumber": "6689967930475008",
+                "subclazzName": "F陈百进F",
+                "groupName": "F陈百进F班冰封骑士队",
+                "studentCount": 59,
+                "attendanceCount": 0,
+                "accuracyRate": "0.0%",
+                "attendanceRate": "0.0%",
+                "power": "0",
+                "highlight": true
+            },
+            {
+                "idx": 1,
+                "subRoomNumber": "60071411708775285",
+                "groupNumber": "6689967872147970",
+                "subclazzName": "F庞军鹏F",
+                "groupName": "F庞军鹏F班圣光天使队",
+                "studentCount": 50,
+                "attendanceCount": 0,
+                "accuracyRate": "0.0%",
+                "attendanceRate": "0.0%",
+                "power": "0"
+            },
+            {
+                "idx": 1,
+                "subRoomNumber": "60071411708795765",
+                "groupNumber": "6689967930475010",
+                "subclazzName": "F陈百进F",
+                "groupName": "F陈百进F班圣光天使队",
+                "studentCount": 59,
+                "attendanceCount": 0,
+                "accuracyRate": "0.0%",
+                "attendanceRate": "0.0%",
+                "power": "0",
+                "highlight": true
+            },
+            {
+                "idx": 1,
+                "subRoomNumber": "60071411708775285",
+                "groupNumber": "6689967872147969",
+                "subclazzName": "F庞军鹏F",
+                "groupName": "F庞军鹏F班天火法师队",
+                "studentCount": 50,
+                "attendanceCount": 0,
+                "accuracyRate": "0.0%",
+                "attendanceRate": "0.0%",
+                "power": "0"
+            },
+            {
+                "idx": 1,
+                "subRoomNumber": "60071411708795765",
+                "groupNumber": "6689967930475009",
+                "subclazzName": "F陈百进F",
+                "groupName": "F陈百进F班天火法师队",
+                "studentCount": 59,
+                "attendanceCount": 0,
+                "accuracyRate": "0.0%",
+                "attendanceRate": "0.0%",
+                "power": "0",
+                "highlight": true
+            },
+            {
+                "idx": 1,
+                "subRoomNumber": "60071411708795765",
+                "groupNumber": "6689967930475013",
+                "subclazzName": "F陈百进F",
+                "groupName": "F陈百进F班奔雷勇士队",
+                "studentCount": 58,
+                "attendanceCount": 0,
+                "accuracyRate": "0.0%",
+                "attendanceRate": "0.0%",
+                "power": "0",
+                "highlight": true
+            },
+            {
+                "idx": 1,
+                "subRoomNumber": "60071411708795765",
+                "groupNumber": "6689967930475011",
+                "subclazzName": "F陈百进F",
+                "groupName": "F陈百进F班月影行者队",
+                "studentCount": 58,
+                "attendanceCount": 0,
+                "accuracyRate": "0.0%",
+                "attendanceRate": "0.0%",
+                "power": "0",
+                "highlight": true
+            },
+            {
+                "idx": 1,
+                "subRoomNumber": "60071411708795765",
+                "groupNumber": "6689967930475012",
+                "subclazzName": "F陈百进F",
+                "groupName": "F陈百进F班神木精灵队",
+                "studentCount": 58,
+                "attendanceCount": 0,
+                "accuracyRate": "0.0%",
+                "attendanceRate": "0.0%",
+                "power": "0",
+                "highlight": true
+            }
+        ]
+    }
+}

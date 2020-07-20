@@ -1,0 +1,102 @@
+{
+    "status": 0,
+    "error_info": "",
+    "code": 0,
+    "msg": "",
+    "data": {
+        "subclazzName": "武文东",
+        "rivalSubclazzName": "程雪景-辅导老师",
+        "pkGroupPairList": [
+            {
+                "groupInfo": {
+                    "groupNumber": "6678407332444160",
+                    "groupName": "冰封骑士队",
+                    "groupScore": "172",
+                    "groupProfilePhoneUrl": "https://test-img.gsxservice.com//2020092_9hdisbns.png",
+                    "pkResult": 1
+                },
+                "rivalGroupInfo": {
+                    "groupNumber": "6678839848138752",
+                    "groupName": "冰封骑士队",
+                    "groupScore": "100",
+                    "groupProfilePhoneUrl": "https://test-img.gsxservice.com//2020092_9hdisbns.png",
+                    "pkResult": 3
+                }
+            },
+            {
+                "groupInfo": {
+                    "groupNumber": "6678407332444160",
+                    "groupName": "冰封骑士队",
+                    "groupScore": "172",
+                    "groupProfilePhoneUrl": "https://test-img.gsxservice.com//2020092_9hdisbns.png",
+                    "pkResult": 1
+                },
+                "rivalGroupInfo": {
+                    "groupNumber": "6678839848138752",
+                    "groupName": "冰封骑士队",
+                    "groupScore": "100",
+                    "groupProfilePhoneUrl": "https://test-img.gsxservice.com//2020092_9hdisbns.png",
+                    "pkResult": 3
+                }
+            }
+        ],
+        "studentResultList": [
+            {
+                "userId": "1443223",
+                "name": "途途的账号",
+                "profilePhoneUrl": "https://test-img.gsxservice.com//2020092_9hdisbns.png",
+                "groupName": "冰封骑士队",
+                "power": "3",
+                "mvp": true
+            },
+            {
+                "userId": "1443223",
+                "name": "云无心以出岫鸟倦",
+                "profilePhoneUrl": "https://test-img.gsxservice.com//2020092_9hdisbns.png",
+                "groupName": "冰封骑士队",
+                "power": "3",
+                "mvp": true
+            },
+            {
+                "userId": "1443223",
+                "name": "云无心以出岫鸟倦",
+                "profilePhoneUrl": "https://test-img.gsxservice.com//2020092_9hdisbns.png",
+                "groupName": "冰封骑士队",
+                "power": "3",
+                "mvp": true
+            },
+            {
+                "userId": "1443223",
+                "name": "云无心以出岫鸟倦",
+                "profilePhoneUrl": "https://test-img.gsxservice.com//2020092_9hdisbns.png",
+                "groupName": "冰封骑士队",
+                "power": "3",
+                "mvp": true
+            },
+            {
+                "userId": "1443223",
+                "name": "云无心以出岫鸟倦",
+                "profilePhoneUrl": "https://test-img.gsxservice.com//2020092_9hdisbns.png",
+                "groupName": "冰封骑士队",
+                "power": "3",
+                "mvp": true
+            },
+            {
+                "userId": "1443223",
+                "name": "途途的账号",
+                "profilePhoneUrl": "https://test-img.gsxservice.com//2020092_9hdisbns.png",
+                "groupName": "冰封骑士队",
+                "power": "3",
+                "mvp": true
+            },
+            {
+                "userId": "1443223",
+                "name": "途途的账号",
+                "profilePhoneUrl": "https://test-img.gsxservice.com//2020092_9hdisbns.png",
+                "groupName": "冰封骑士队",
+                "power": "3",
+                "mvp": true
+            }
+        ]
+    }
+}

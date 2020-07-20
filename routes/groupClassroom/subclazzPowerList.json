@@ -1,0 +1,15 @@
+{
+    "status": 0,
+    "error_info": "",
+    "code": 0,
+    "msg": "",
+    "data": {
+        "currentSubclazzInfo": {
+            "subclazzNumber": "5344338830112771",
+            "subClazzName": "武文东班",
+            "powerScore": "0",
+            "phoneUrl": "https://test-i.gsxcdn.com/1841578_fwcp77xf.jpeg"
+        },
+        "subclazzInfoList": []
+    }
+}
