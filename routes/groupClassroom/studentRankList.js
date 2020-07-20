@@ -16,6 +16,7 @@ const studentInfoList = () => ([
         "accuracyRate": "100%",
         "attendance": Math.random(),
         "power": "1",
+        "attendedTag": "首次到课",
         "mvp": true
     },
     {
@@ -23,6 +24,34 @@ const studentInfoList = () => ([
         "name": "墨雨",
         "accuracyRate": "100%",
         "attendance": Math.random(),
+        "attendedTag": "首次到课",
+        "power": "1",
+        "mvp": true
+    },
+    {
+        "idx": 1,
+        "name": "墨雨",
+        "accuracyRate": "100%",
+        "attendance": Math.random(),
+        "attendedTag": "首次到课",
+        "power": "1",
+        "mvp": true
+    },
+    {
+        "idx": 1,
+        "name": "墨雨",
+        "accuracyRate": "100%",
+        "attendance": Math.random(),
+        "attendedTag": "召回学员",
+        "power": "1",
+        "mvp": true
+    },
+    {
+        "idx": 1,
+        "name": "墨雨",
+        "accuracyRate": "100%",
+        "attendance": Math.random(),
+        "attendedTag": "召回学员",
         "power": "1",
         "mvp": true
     },
@@ -32,30 +61,7 @@ const studentInfoList = () => ([
         "accuracyRate": "100%",
         "attendance": Math.random(),
         "power": "1",
-        "mvp": true
-    },
-    {
-        "idx": 1,
-        "name": "墨雨",
-        "accuracyRate": "100%",
-        "attendance": Math.random(),
-        "power": "1",
-        "mvp": true
-    },
-    {
-        "idx": 1,
-        "name": "墨雨",
-        "accuracyRate": "100%",
-        "attendance": Math.random(),
-        "power": "1",
-        "mvp": true
-    },
-    {
-        "idx": 1,
-        "name": "墨雨",
-        "accuracyRate": "100%",
-        "attendance": Math.random(),
-        "power": "1",
+        "attendedTag": "连续5次",
         "mvp": true
     },
     {
